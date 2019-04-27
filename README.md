@@ -1,0 +1,2 @@
+# mazu
+semaozi.com
